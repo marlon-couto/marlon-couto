@@ -10,17 +10,25 @@ Sou estudante de Desenvolvimento Web na Trybe.
 #### Conecte-se comigo
 
 [Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### Um pouco sobre mim
 
 ```js
 const marlonCouto = {
-	birthYear: 1991,
-	nationality: 'brazilian',
-	hobbies: ['code', 'read', 'play', 'relax'],
-	tools: ['JavaScript ES6', 'Jest', 'Bootstrap', 'React', 'Nodejs', 'HTML5', 'CSS3'],
-	goal: 'To become one of the best tech professionals in the world, doing what I love',
+  birthYear: 1991,
+  nationality: 'Brazilian',
+  hobbies: ['code', 'read', 'play', 'relax'],
+  tools: [
+    'JavaScript ES6',
+    'Jest',
+    'Bootstrap',
+    'React',
+    'Nodejs',
+    'HTML5',
+    'CSS3',
+  ],
+  goal: 'Become one of the best tech professionals, doing what I love',
 };
 ```
 
