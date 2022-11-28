@@ -7,12 +7,12 @@ Sou estudante de Desenvolvimento Web na Trybe.
 - Adoro superar desafios e resolver problemas 🤓
 - Acredito que a tecnologia pode aproximar as pessoas 🫂
 
-#### Conecte-se comigo
+## Conecte-se comigo
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-### Um pouco sobre mim
+## Um pouco sobre mim
 
 ```js
 const marlonCouto = {
@@ -32,7 +32,7 @@ const marlonCouto = {
 };
 ```
 
-### Tecnologias que utilizo
+## Tecnologias que utilizo
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
