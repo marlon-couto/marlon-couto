@@ -1,6 +1,6 @@
 # Olá, eu sou o Marlon! 👋
 
-## Sou estudante de Desenvolvimento Web na Trybe.
+Sou estudante de Desenvolvimento Web na Trybe.
 
 - Atualmente estou estudando React 📚
 - Estou em busca de constante evolução 💪
